@@ -1,0 +1,29 @@
+:root{
+    --fuenteTitulo:'Outfit', sans-serif;
+    --fuenteParrafo: 'Gowun Dodum', sans-serif;
+}
+
+.borde{border: 1px #000 solid; text-align: center;height: 50px;}
+
+
+h5{
+    text-align: center;
+    font-family: var(--fuenteTitulo);
+}
+
+.contenido{
+    text-align: center;
+}
+
+ 
+.titulo{
+    text-align: center;
+}
+
+.card-text{
+    text-align: center;
+}
+
+p{
+    font-family: var(--fuenteParrafo); 
+}
